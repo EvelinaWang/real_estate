@@ -18,8 +18,5 @@ def create_description(row):
 
 df["description"] = df.apply(create_description, axis=1)
 
-# 4. 截取一部分用于测试（例如每州最多 100 条）
-sampled = df.groupby("state").apply(lambda x: x.sample(min(100, len(x)))).reset_index(drop=True)
-
-# 5. 保存清洗后的数据
+# 4. 保存清洗后的数据
 sampled.to_csv("cleaned_real_estate_data.csv", index=False)
