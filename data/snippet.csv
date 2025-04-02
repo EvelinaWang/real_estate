@@ -1,0 +1,10 @@
+brokered_by,status,price,bed,bath,acre_lot,street,city,state,zip_code,house_size,prev_sold_date,description
+2066.0,for_sale,525000.0,4.0,4.0,0.35,1037493.0,Pelham,Alabama,35124.0,2612.0,," A 4.0-bed, 4.0-bath home of 2612.0 sqft in Pelham, Alabama (35124.0), listed at $525000.0. Land size is 0.35 acres. Status: for_sale."
+183.0,for_sale,197000.0,4.0,2.0,1.0,515876.0,Northport,Alabama,35475.0,1896.0,2017-07-03," A 4.0-bed, 2.0-bath home of 1896.0 sqft in Northport, Alabama (35475.0), listed at $197000.0. Land size is 1.0 acres. Status: for_sale."
+86600.0,for_sale,249900.0,4.0,2.0,,908098.0,Mobile,Alabama,36606.0,2181.0,," A 4.0-bed, 2.0-bath home of 2181.0 sqft in Mobile, Alabama (36606.0), listed at $249900.0. Land size is nan acres. Status: for_sale."
+57227.0,sold,224900.0,3.0,3.0,0.1,406520.0,Birmingham,Alabama,35205.0,1295.0,2022-04-20," A 3.0-bed, 3.0-bath home of 1295.0 sqft in Birmingham, Alabama (35205.0), listed at $224900.0. Land size is 0.1 acres. Status: sold."
+53423.0,for_sale,400000.0,4.0,4.0,0.22,626832.0,Birmingham,Alabama,35242.0,3323.0,2010-02-09," A 4.0-bed, 4.0-bath home of 3323.0 sqft in Birmingham, Alabama (35242.0), listed at $400000.0. Land size is 0.22 acres. Status: for_sale."
+109972.0,for_sale,619500.0,3.0,3.0,,1293748.0,Orange Beach,Alabama,36561.0,1590.0,2007-09-12," A 3.0-bed, 3.0-bath home of 1590.0 sqft in Orange Beach, Alabama (36561.0), listed at $619500.0. Land size is nan acres. Status: for_sale."
+68543.0,for_sale,396100.0,4.0,4.0,0.66,490515.0,Riverside,Alabama,35135.0,2714.0,," A 4.0-bed, 4.0-bath home of 2714.0 sqft in Riverside, Alabama (35135.0), listed at $396100.0. Land size is 0.66 acres. Status: for_sale."
+53239.0,for_sale,359900.0,3.0,2.0,0.38,1250370.0,Gardendale,Alabama,35071.0,1907.0,," A 3.0-bed, 2.0-bath home of 1907.0 sqft in Gardendale, Alabama (35071.0), listed at $359900.0. Land size is 0.38 acres. Status: for_sale."
+25914.0,for_sale,283165.0,3.0,2.0,,508707.0,Hazel Green,Alabama,35750.0,1683.0,," A 3.0-bed, 2.0-bath home of 1683.0 sqft in Hazel Green, Alabama (35750.0), listed at $283165.0. Land size is nan acres. Status: for_sale."

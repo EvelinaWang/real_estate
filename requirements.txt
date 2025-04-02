@@ -1,0 +1,7 @@
+pandas
+singlestoredb
+pymysql
+openai>=1.2.3
+numpy
+python-dotenv
+pyautogen
